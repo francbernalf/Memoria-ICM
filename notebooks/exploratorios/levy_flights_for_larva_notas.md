@@ -4,7 +4,7 @@
 
 ## Español
 
-Este cuaderno prueba un modelo distinto a los de la memoria y no forma parte de los resultados reportados, aunque ofrece ajustes prometedores. Se incluyen comentarios sobre lo observado como punto de partida para un potencial trabajo futuro.
+Este cuaderno prueba un modelo distinto a los de la memoria y no forma parte de los resultados reportados. Las pruebas son exploratorias y no concluyentes, aunque algunas simulaciones se parecen cualitativamente a las trayectorias observadas. Se incluyen comentarios sobre lo observado como punto de partida para un potencial trabajo futuro.
 
 ### Vuelos de Lévy
 
@@ -25,7 +25,7 @@ Requiere el paquete `powerlaw` (`pip install powerlaw`) y un archivo `df.csv` en
 
 ## English
 
-This notebook tests a model different from those in the thesis and is not part of the reported results, although it yields promising fits. Comments on the observations are included as a starting point for potential future work.
+This notebook tests a model different from those in the thesis and is not part of the reported results. The tests are exploratory and inconclusive, although some simulations look qualitatively similar to the observed trajectories. Comments on the observations are included as a starting point for potential future work.
 
 ### Lévy flights
 
