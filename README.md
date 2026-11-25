@@ -1,4 +1,4 @@
-Code from my undergraduate thesis in Mathematical Engineering (Universidad de Valparaíso, Chile, first semester of 2025), titled "Modelamiento estocástico del movimiento de larvas de loco y erizo rojo para evaluar el efecto de cambios en la salinidad del ambiente" *(Stochastic modeling of the movement of chilean loco and red sea urchin larvae to assess the effect of changes in environmental salinity)*. The full thesis is available at the [Universidad de Valparaíso library](https://repositoriobibliotecas.uv.cl/handle/uvscl/17217).
+Code from my undergraduate thesis in Mathematical Engineering (Universidad de Valparaíso, Chile, first semester of 2025), titled "Modelamiento estocástico del movimiento de larvas de loco y erizo rojo para evaluar el efecto de cambios en la salinidad del ambiente" *(Stochastic modeling of the movement of Chilean loco and red sea urchin larvae to assess the effect of changes in environmental salinity)*. The full thesis is available at the [Universidad de Valparaíso library](https://repositoriobibliotecas.uv.cl/handle/uvscl/17217).
 
 ## About the data
 
