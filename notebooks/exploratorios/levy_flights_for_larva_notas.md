@@ -25,7 +25,7 @@ Requiere el paquete `powerlaw` (`pip install powerlaw`) y un archivo `df.csv` en
 
 ## English
 
-After I submitted the thesis report, my professor sent me the notebook `levy_flights_for_larva.ipynb`, which tests a model different from the ones in the thesis, along with the comments below. The notebook is not part of the thesis; it is kept here as received, as a starting point for future work.
+This notebook tests a model different from those in the thesis and is not part of the reported results, although it yields promising fits. Comments on the observations are included as a starting point for potential future work.
 
 ### Lévy flights
 
