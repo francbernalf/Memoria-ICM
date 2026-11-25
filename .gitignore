@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+
+# Entornos virtuales
+env/
+venv/
+ENV/
+.env
+*.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Datos (solo se publica la base simulada)
+*.db
+*.csv
+*.xlsx
+*.h5
+*.zip
+data/*
+!data/data_simulada.db
+
+# Sistema / IDE
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+*.code-workspace
+*.log

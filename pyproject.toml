@@ -1,0 +1,33 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "memoria_icm"
+version = "1.0.0"
+authors = [
+  { name = "Francisco Bernal", email = "francisco.bernal@alumni.uv.cl" },
+]
+description = "Paquete para desarrollo de memoria de título."
+readme = "README.md"
+requires-python = ">=3.8"
+keywords = ["salinidad", "análisis estadístico", "FDA", "modelación estocástica", "trabajo de título", "ingeniería matemática"]
+
+dependencies = [
+    "pandas",
+    "numpy",
+    "matplotlib",
+    "matplotlib-inline",
+    "seaborn",
+    "statsmodels",
+    "scipy",
+    "pingouin",
+    "scikit-posthocs",
+    "scikit-learn",
+    "scikit-fda",
+    "pywavelets"
+]
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
