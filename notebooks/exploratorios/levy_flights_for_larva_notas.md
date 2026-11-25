@@ -4,7 +4,7 @@
 
 ## Español
 
-Después de la entrega del informe, mi profesora me envió el cuaderno `levy_flights_for_larva.ipynb` con una prueba de un modelo distinto a los de la memoria, junto con los comentarios de abajo. El cuaderno no forma parte de la memoria; queda aquí tal como lo recibí, como punto de partida para trabajo futuro.
+Este cuaderno prueba un modelo distinto a los de la memoria y no forma parte de los resultados reportados, aunque ofrece ajustes prometedores. Se incluyen comentarios sobre lo observado como punto de partida para un potencial trabajo futuro.
 
 ### Vuelos de Lévy
 
