@@ -2,7 +2,7 @@ Code from my undergraduate thesis in Mathematical Engineering (Universidad de Va
 
 ## About the data
 
-The original experimental data is not included for privacy reasons. `data/data_simulada.db` is a simulated SQLite database with the same structure, so the code can run end to end. Everything else is the original code from the thesis, except for `src/memoria_icm/funciones.py`, which includes corrections made after the thesis (a proper Welch ANOVA, effect size labels, assumption checks for small groups and unique Dunn pairs). The saved notebook outputs come from the original data, and results obtained with the simulated data will not match those reported in the document.
+The original experimental data is not included for privacy reasons. `data/data_simulada.db` is a simulated SQLite database with the same structure, so the code can run end to end. Everything else is the original code from the thesis, except for `src/memoria_icm/funciones.py`, which includes corrections made after. The saved notebook outputs come from the original data, and results obtained with the simulated data will not match those reported in the document.
 
 ## Structure
 
