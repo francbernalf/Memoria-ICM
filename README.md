@@ -6,7 +6,7 @@ The original experimental data is not included for privacy reasons. `data/data_s
 
 ## Structure
 
-- `src/memoria_icm/`: data loading, trajectory variables, plotting, and the Ornstein–Uhlenbeck and CIR model functions
+- `src/memoria_icm/`: data loading, trajectory variables, plotting, and the OU and CIR model functions
 - `notebooks/`: main analyses (functional data analysis, ANOVA by salinity level, OU and CIR calibration)
   - `cerrados/`: earlier steps (database creation, exploratory analysis, time analysis)
   - `exploratorios/`: side explorations not included in the final thesis
