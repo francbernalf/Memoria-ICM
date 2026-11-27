@@ -9,16 +9,6 @@ import statsmodels.api as sm
 import statsmodels.formula.api as smf
 from statsmodels.stats.multicomp import pairwise_tukeyhsd
 
-# CAMBIOS respecto de funciones.py (marcados con "CORREGIDO"):
-#  1. testear_supuestos: un grupo con n < 3 ya no cuenta como "normal" (no se puede comprobar).
-#  2. elegir_tests (nueva): aplica testear_supuestos DENTRO del subconjunto que se va a comparar.
-#     En la memoria los supuestos se evaluaron con los 4 grupos juntos (CC-E, CC-R, LA-E, LA-R): por eso salió KW casi siempre.
-#  3. analizar_welch: ahora es el ANOVA de Welch de verdad (pingouin). Antes era un ANOVA con errores robustos HC3, que es otro test.
-#  4. analizar_kruskal: los nombres de los tamaños de efecto estaban intercambiados.
-#     H/(n-1) es épsilon² y (H-k+1)/(n-k) es eta²_H (la versión corregida por sesgo).
-#  5. posthoc_kruskal_dunn: devuelve cada par una sola vez (antes salían a-b, b-a y a-a).
-
-
 def testear_supuestos(df, variable, factor, alpha=0.05):
     resultados = []
     normalidad_ok = True
