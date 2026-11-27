@@ -2,7 +2,7 @@ Code from my undergraduate thesis in Mathematical Engineering (Universidad de Va
 
 ## About the data
 
-The original experimental data is not included for privacy reasons. `data/data_simulada.db` is a simulated SQLite database with the same structure, so the code can run end to end. Everything else is the original code from the thesis, except for `src/memoria_icm/funciones.py`, which includes corrections made subsequently. The saved notebook outputs come from the original data, and results obtained with the simulated data will not match those reported in the document.
+The original experimental data is omitted due to privacy constraints; instead, `data/data_simulada.db` provides a simulated SQLite database with the same schema to allow end-to-end execution. Except for subsequent fixes in `src/memoria_icm/funciones.py`, all code remains identical to the original thesis. Please note that saved notebook outputs are based on the original data, so running the notebooks with the simulated dataset will produce different results.
 
 ## Structure
 
